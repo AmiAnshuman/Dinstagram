@@ -1,0 +1,28 @@
+.ad{
+    width: 400px;
+    margin: 30px 0;
+}
+.crd{
+    padding: 10px;
+    border: 1px ridge black;
+    border-radius: 10px;
+    
+}
+.as{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+.card-img-top{
+    width: 300px;
+    height: 350px;
+    border: 0.5px ridge black;
+    padding: 0;
+    border-radius: 10px;
+}
+.btn{
+    background-color: darkcyan;
+    border: 0.5px ridge black;
+    color: white;
+}

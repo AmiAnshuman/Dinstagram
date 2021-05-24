@@ -1,0 +1,14 @@
+/* Styles go here */
+.column{
+    padding:0px;
+    margin: 0px;;
+    
+}
+.aq{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+}

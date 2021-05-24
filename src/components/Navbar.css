@@ -1,0 +1,18 @@
+.add{
+    font-size: 1.2em ;
+    font-style: oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 1vh 0;
+    padding:0;
+    font-weight: 700;
+    color: floralwhite;
+    
+}
+.navbar{
+   background-color:darkcyan;
+   height: 100%;
+}
+.hello{
+    justify-content: center;
+    align-items: center;
+}
